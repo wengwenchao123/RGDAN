@@ -41,3 +41,7 @@ If you find the paper useful, please cite as following:
   publisher={Elsevier}
 }
 ```
+
+## More Related Works
+
+- [[Pattern Recognition] A Decomposition Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting](https://www.sciencedirect.com/science/article/pii/S0031320323003710)
