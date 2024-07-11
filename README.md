@@ -1,6 +1,6 @@
 # [Neural Networks] RGDAN: A random graph diffusion attention network for traffic prediction  
 
-This is a PyTorch implementation of Decomposition Dynamic Graph Conolutional Recurrent Network for Traffic Forecasting, as described in our paper: Jin Fan, [Weng, Wenchao](https://github.com/wengwenchao123/RGDAN/), Hao Tian, Huifeng Wu , Fu Zhu, Jia Wu **[RGDAN: A random graph diffusion attention network for traffic prediction](https://doi.org/10.1016/j.neunet.2023.106093)**,Neural Networks 2024.
+This is a PyTorch implementation of RGDAN: A random graph diffusion attention network for traffic prediction, as described in our paper: Jin Fan, [Weng, Wenchao](https://github.com/wengwenchao123/RGDAN/), Hao Tian, Huifeng Wu , Fu Zhu, Jia Wu **[RGDAN: A random graph diffusion attention network for traffic prediction](https://doi.org/10.1016/j.neunet.2023.106093)**,Neural Networks 2024.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rgdan-a-random-graph-diffusion-attention/traffic-prediction-on-metr-la)](https://paperswithcode.com/sota/traffic-prediction-on-metr-la?p=rgdan-a-random-graph-diffusion-attention)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rgdan-a-random-graph-diffusion-attention/traffic-prediction-on-pems-bay)](https://paperswithcode.com/sota/traffic-prediction-on-pems-bay?p=rgdan-a-random-graph-diffusion-attention)
