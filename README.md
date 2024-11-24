@@ -8,6 +8,10 @@ This is a PyTorch implementation of RGDAN: A random graph diffusion attention ne
 ## Note
 The original code for this paper was lost due to server damage a year ago, and there was a lack of awareness to save relevant data at that time. The current code has been reconstructed based on memory to provide a version for research reference. While it achieves good results, it may not match the performance reported in the paper due to unknown reasons. We appreciate your understanding.
 
+## Update
+ (2024/11/24)
+* Optimize generateSE.py to adapt to the new version of gensim library
+
 # Data Preparation
 
 The relevant datasets have been placed in the "data" folder. To run the program, simply unzip the "PeMS.zip" and "METR.zip" files.
