@@ -54,3 +54,5 @@ If you find the paper useful, please cite as following:
 - [[Pattern Recognition] A Decomposition Dynamic Graph Convolutional Recurrent Network for Traffic Forecasting](https://www.sciencedirect.com/science/article/pii/S0031320323003710)
 
 - [[Neural Networks] PDG2Seq: Periodic Dynamic Graph to Sequence model for Traffic Flow Prediction](https://doi.org/10.1016/j.neunet.2024.106941)
+
+- [[TITS2025] Pattern-Matching Dynamic Memory Network for Dual-Mode Traffic Prediction](https://doi.org/10.1109/TITS.2025.3564564)
